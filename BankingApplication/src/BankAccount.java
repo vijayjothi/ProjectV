@@ -1,3 +1,5 @@
+package BankingApplication.src;
+
 import java.util.Scanner;
 
 public class BankAccount {
@@ -9,7 +11,9 @@ public class BankAccount {
         cusName=this.cusName;
         cusId=this.cusId;
     }
-
+/*
+This is a pojo class
+ */
     void deposit(int amount){
         if(amount>0)
         {
