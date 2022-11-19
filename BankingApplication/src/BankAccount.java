@@ -7,6 +7,9 @@ public class BankAccount {
     int previousTransaction;
     String cusName;
     String cusId;
+    /*
+    for documentation purpose in bank
+     */
     BankAccount(String cusName,String cusId){
         cusName=this.cusName;
         cusId=this.cusId;
