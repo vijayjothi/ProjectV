@@ -8,7 +8,7 @@ public class BankAccount {
     String cusName;
     String cusId;
     /*
-    for documentation purpose
+    for documentation purpose in bank
      */
     BankAccount(String cusName,String cusId){
         cusName=this.cusName;
