@@ -1,9 +1,5 @@
-package BankingApplication.src;
-
 import java.util.Scanner;
-/*
-adding some java documentation here to check
- */
+
 public class BankAccount {
     int balance;
     int previousTransaction;
